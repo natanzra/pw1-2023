@@ -1,0 +1,51 @@
+* {
+    margin: 3px;
+    padding: 3px;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Poppins, sans-serif;
+    background-color: rgb(3, 17, 44);
+    color: black;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: rgb(192, 185, 124);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 50px;
+}
+
+header.h1 {
+    font-size: 50em;
+}
+
+.judul {
+    background-color: rgb(245, 239, 239);
+    margin: 20px;
+    padding: 20px;
+    border-radius: 35px;
+    box-shadow: 0 2px 5px;
+}
+.detail {
+    color: black;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color:rgb(245, 239, 239); ;
+    border-radius: 35px;
+}
+.detail2 {
+    color: black;
+    font-size: 1.1em;
+}
+
+.detail2{
+    font-size: 1em;
+}
